@@ -1,0 +1,6 @@
+@article{xue2026deactivating,
+  title={Deactivating Refusal Triggers: Understanding and Mitigating Overrefusal in Safety Alignment},
+  author={Xue, Zhiyu and Qi, Zimo and Liu, Guangliang and Chen, Bocheng and Pedarsani, Ramtin},
+  journal={arXiv preprint arXiv:2603.11388},
+  year={2026}
+}

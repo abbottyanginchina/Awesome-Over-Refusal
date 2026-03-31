@@ -15,23 +15,27 @@ Refusal mechanisms are essential for safety alignment in foundational AI models.
 
 ## Table of Contents
 
+<!-- TOC start (generated with https://github.com/ekalinin/github-markdown-toc) -->
 - [Overview](#overview)
+- [Table of Contents](#table-of-contents)
 - [Paper List](#paper-list)
   - [Benchmarks](#benchmarks)
-    - [LLMs — Single-Turn Questions](#llms--single-turn-questions)
-    - [LLMs — Complex Contexts](#llms--complex-contexts)
-    - [Vision-Language Models (VLMs)](#vision-language-models-vlms)
+    - [LLMs](#llms)
+    - [VLMs](#vision-language-models-vlms)
     - [Other Modalities and Domains](#other-modalities-and-domains)
   - [Mitigation Methods](#mitigation-methods)
     - [Training-based Methods](#training-based-methods)
     - [Inference-Time Methods](#inference-time-methods)
     - [Explanation-based Methods](#explanation-based-methods)
+<!-- TOC end -->
 
-## Paper List
+# Paper List
 
-### Benchmarks
+## Benchmarks
 
-#### LLMs — Single-Turn Questions
+### Large Language Models (LLMs) 
+
+#### Single-Turn Questions
 
 * [XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models](https://aclanthology.org/2024.naacl-long.301/) (Röttger et al., NAACL 2024) [📖](citations/xstest.txt)
 * [Navigating the OverKill in Large Language Models](https://aclanthology.org/2024.acl-long.253/) (Shi et al., ACL 2024) [📖](citations/overkill.txt)
@@ -42,20 +46,20 @@ Refusal mechanisms are essential for safety alignment in foundational AI models.
 * [EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions](https://openreview.net/forum?id=dbq6NZfi3c) (Wu et al., NeurIPS 2025) [📖](citations/evorefuse.txt)
 * [ORFuzz: Fuzzing the "Other Side" of LLM Safety — Testing Over-Refusal](https://arxiv.org/abs/2508.11222) (Zhang et al., arXiv 2025) [📖](citations/orfuzz.txt)
 
-#### LLMs — Complex Contexts
+#### Complex Contexts
 
 * [Beyond Over-Refusal: Scenario-Based Diagnostics and Post-Hoc Mitigation for Exaggerated Refusals in LLMs](https://arxiv.org/abs/2510.08158) (Yuan et al., arXiv 2025) [📖](citations/ms-xsb.txt) — *Multi-turn dialogue*
 * [COVER: Context-Driven Over-Refusal Verification in LLMs](https://aclanthology.org/2025.findings-acl.1243/) (Sullutrone et al., ACL Findings 2025) [📖](citations/cover.txt)
 * [Steering Over-refusals Towards Safety in Retrieval Augmented Generation](https://arxiv.org/abs/2510.10452) (Maskey et al., arXiv 2025) [📖](citations/ragrefuse.txt)
 * [Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](https://arxiv.org/abs/2505.18325) (Pan et al., EMNLP 2025) [📖](citations/morbench.txt) 
 
-#### Vision-Language Models (VLMs)
+### Vision-Language Models (VLMs)
 
 * [Don't Always Say No to Me: Benchmarking Safety-Related Refusal in Large VLM](https://openreview.net/forum?id=OLEQJoAED6) (Liu et al., 2024) [📖](citations/lvlm-safer.txt)
 * [MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](https://openreview.net/forum?id=QsA3YzNUxA) (Li et al., ICLR 2025) [📖](citations/mossbench.txt)
 * [DUAL-Bench: Measuring Over-Refusal and Robustness in Vision-Language Models](https://arxiv.org/abs/2510.10846) (Ren et al., arXiv 2025) [📖](citations/dual-bench.txt)
 
-#### Other Modalities and Domains
+### Other Modalities and Domains
 
 * [OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models](https://arxiv.org/abs/2505.21347) (Cheng et al., NeurIPS 2025) [📖](citations/overt.txt)
 * [Reshaping Representation Space to Balance the Safety and Over-rejection in Large Audio Language Models](https://arxiv.org/abs/2505.19670) (Yang et al., EMNLP 2025) [📖](citations/reshaping-audio.txt)
@@ -63,9 +67,9 @@ Refusal mechanisms are essential for safety alignment in foundational AI models.
 
 ---
 
-### Mitigation Methods
+## Mitigation Methods
 
-#### Training-based Methods
+### Training-based Methods
 
 **Supervised Fine-Tuning (SFT)**
 
@@ -104,6 +108,8 @@ Refusal mechanisms are essential for safety alignment in foundational AI models.
 #### Explanation-based Methods
 
 * [Beyond Over-Refusal: Scenario-Based Diagnostics and Post-Hoc Mitigation for Exaggerated Refusals in LLMs](https://arxiv.org/abs/2510.08158) (Yuan et al., arXiv 2025) [📖](citations/ms-xsb.txt)
+
+* [Deactivating Refusal Triggers: Understanding and Mitigating Overrefusal in Safety Alignment](https://arxiv.org/abs/2603.11388) (Xue et al., arXiv 2026) [📖](citations/xue2026deactivating.txt)
 
 <!--
 ---
