@@ -97,7 +97,7 @@ Refusal mechanisms are essential for safety alignment in foundational AI models.
 
 **Decoding-Level Calibration**
 
-* Navigating the OverKill in Large Language Models (Shi et al., ACL 2024) [📖](citations/overkill.txt) 
+* [Navigating the OverKill in Large Language Models](https://aclanthology.org/2024.acl-long.253/) (Shi et al., ACL 2024) [📖](citations/overkill.txt) 
 * [Steering Multimodal Large Language Models Decoding for Context-Aware Safety](https://arxiv.org/abs/2509.19212) (Liu et al., arXiv 2025) [📖](citations/context-aware-decoding.txt)
 * [There Is More to Refusal in Large Language Models than a Single Direction](https://arxiv.org/abs/2602.02132) (Joad et al., arXiv 2026) [📖](citations/more-to-refusal.txt)
 
