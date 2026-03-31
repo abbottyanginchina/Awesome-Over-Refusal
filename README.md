@@ -34,8 +34,8 @@ Refusal mechanisms are essential for safety alignment in foundational AI models.
 #### LLMs — Single-Turn Questions
 
 * [XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models](https://aclanthology.org/2024.naacl-long.301/) (Röttger et al., NAACL 2024) [📖](citations/xstest.txt)
-* Navigating the OverKill in Large Language Models (Shi et al., ACL 2024) [📖](citations/overkill.txt)
-* Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models (An et al., COLM 2024) [📖](citations/phtest.txt)
+* [Navigating the OverKill in Large Language Models](https://aclanthology.org/2024.acl-long.253/) (Shi et al., ACL 2024) [📖](citations/overkill.txt)
+* [Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models](https://arxiv.org/abs/2409.00598) (An et al., COLM 2024) [📖](citations/phtest.txt)
 * [OR-Bench: An Over-Refusal Benchmark for Large Language Models](https://proceedings.mlr.press/v267/cui25a.html) (Cui et al., ICML 2025) [📖](citations/orbench.txt)
 * [FalseReject: A Resource for Improving Contextual Safety and Mitigating Over-Refusals in LLMs via Structured Reasoning](https://openreview.net/forum?id=1w9Hay7tvm) (Zhang et al., COLM 2025) [📖](citations/falsereject.txt)
 * [SCOPE: Scalable and Adaptive Evaluation of Misguided Safety Refusal in LLMs](https://openreview.net/forum?id=72H3w4LHXM) (Zeng et al., 2025) [📖](citations/scope.txt)
@@ -45,9 +45,9 @@ Refusal mechanisms are essential for safety alignment in foundational AI models.
 #### LLMs — Complex Contexts
 
 * [Beyond Over-Refusal: Scenario-Based Diagnostics and Post-Hoc Mitigation for Exaggerated Refusals in LLMs](https://arxiv.org/abs/2510.08158) (Yuan et al., arXiv 2025) [📖](citations/ms-xsb.txt) — *Multi-turn dialogue*
-* COVER: Context-Driven Over-Refusal Verification in LLMs (Sullutrone et al., ACL Findings 2025) [📖](citations/cover.txt) — *Long-context*
-* [Steering Over-refusals Towards Safety in Retrieval Augmented Generation](https://arxiv.org/abs/2510.10452) (Maskey et al., arXiv 2025) [📖](citations/ragrefuse.txt) — *RAG*
-* Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary (Pan et al., EMNLP 2025) [📖](citations/morbench.txt) — *Multilingual*
+* [COVER: Context-Driven Over-Refusal Verification in LLMs](https://aclanthology.org/2025.findings-acl.1243/) (Sullutrone et al., ACL Findings 2025) [📖](citations/cover.txt)
+* [Steering Over-refusals Towards Safety in Retrieval Augmented Generation](https://arxiv.org/abs/2510.10452) (Maskey et al., arXiv 2025) [📖](citations/ragrefuse.txt)
+* [Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](https://arxiv.org/abs/2505.18325) (Pan et al., EMNLP 2025) [📖](citations/morbench.txt) 
 
 #### Vision-Language Models (VLMs)
 
@@ -57,8 +57,8 @@ Refusal mechanisms are essential for safety alignment in foundational AI models.
 
 #### Other Modalities and Domains
 
-* OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models (Cheng et al., NeurIPS 2025) [📖](citations/overt.txt) — *Text-to-Image*
-* Reshaping Representation Space to Balance the Safety and Over-rejection in Large Audio Language Models (Yang et al., EMNLP 2025) [📖](citations/reshaping-audio.txt) — *Audio Language Models*
+* [OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models](https://arxiv.org/abs/2505.21347) (Cheng et al., NeurIPS 2025) [📖](citations/overt.txt)
+* [Reshaping Representation Space to Balance the Safety and Over-rejection in Large Audio Language Models](https://arxiv.org/abs/2505.19670) (Yang et al., EMNLP 2025) [📖](citations/reshaping-audio.txt)
 * [Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context](https://arxiv.org/abs/2601.17642) (Zhang et al., arXiv 2026) [📖](citations/health-orsc-bench.txt) — *Healthcare*
 
 ---
@@ -74,20 +74,20 @@ Refusal mechanisms are essential for safety alignment in foundational AI models.
 
 **RL-based Post-Training**
 
-* Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary (Pan et al., EMNLP 2025) [📖](citations/morbench.txt) — *DPO*
-* Reshaping Representation Space to Balance the Safety and Over-rejection in Large Audio Language Models (Yang et al., EMNLP 2025) [📖](citations/reshaping-audio.txt) — *DPO + Activation*
-* Pragma-VL: Towards a Pragmatic Arbitration of Safety and Helpfulness in MLLMs (Wen et al., ICLR 2026) [📖](citations/pragma-vl.txt) — *GRPO*
+* [Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](https://aclanthology.org/2025.emnlp-main.1065/) (Pan et al., EMNLP 2025) [📖](citations/morbench.txt) 
+* [Reshaping Representation Space to Balance the Safety and Over-rejection in Large Audio Language Models](https://aclanthology.org/2025.emnlp-main.510/) (Yang et al., EMNLP 2025) [📖](citations/reshaping-audio.txt) 
+* [Pragma-VL: Towards a Pragmatic Arbitration of Safety and Helpfulness in MLLMs](https://arxiv.org/abs/2603.13292) (Wen et al., ICLR 2026) [📖](citations/pragma-vl.txt) 
 
 #### Inference-Time Methods
 
 **Prompt Engineering**
 
 * [Mitigating Exaggerated Safety in Large Language Models](https://arxiv.org/abs/2405.05418) (Ray et al., arXiv 2024) [📖](citations/exaggerated-safety.txt)
-* Navigating the OverKill in Large Language Models (Shi et al., ACL 2024) [📖](citations/overkill.txt) — *CoT, ICL*
+* [Navigating the OverKill in Large Language Models](https://aclanthology.org/2024.acl-long.253/) (Shi et al., ACL 2024) [📖](citations/overkill.txt) — *CoT, ICL*
 
 **Activation Steering**
 
-* SCANS: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering (Cao et al., AAAI 2025) [📖](citations/scans.txt)
+* [SCANS: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/abs/2408.11491) (Cao et al., AAAI 2025) [📖](citations/scans.txt)
 * [Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation](https://openreview.net/forum?id=SCBn8MCLwc) (Wang et al., ICLR 2025) [📖](citations/surgical.txt)
 * [Just Enough Shifts: Mitigating Over-Refusal in Aligned Language Models with Targeted Representation Fine-Tuning](https://proceedings.mlr.press/v267/dabas25a.html) (Dabas et al., ICML 2025) [📖](citations/actor.txt)
 * [SafeConstellations: Steering LLM Safety to Reduce Over-Refusals Through Task-Specific Trajectory](https://arxiv.org/abs/2508.11290) (Maskey et al., arXiv 2025) [📖](citations/safeconstellations.txt)
@@ -97,7 +97,7 @@ Refusal mechanisms are essential for safety alignment in foundational AI models.
 
 **Decoding-Level Calibration**
 
-* Navigating the OverKill in Large Language Models (Shi et al., ACL 2024) [📖](citations/overkill.txt) — *Self-contrastive decoding*
+* Navigating the OverKill in Large Language Models (Shi et al., ACL 2024) [📖](citations/overkill.txt) 
 * [Steering Multimodal Large Language Models Decoding for Context-Aware Safety](https://arxiv.org/abs/2509.19212) (Liu et al., arXiv 2025) [📖](citations/context-aware-decoding.txt)
 * [There Is More to Refusal in Large Language Models than a Single Direction](https://arxiv.org/abs/2602.02132) (Joad et al., arXiv 2026) [📖](citations/more-to-refusal.txt)
 
