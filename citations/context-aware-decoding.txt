@@ -1,0 +1,6 @@
+@article{liu2025steering,
+  title={Steering Multimodal Large Language Models Decoding for Context-Aware Safety},
+  author={Liu, Zheyuan and Xu, Zhangchen and Dou, Guangyao and Yuan, Xiangchi and Tan, Zhaoxuan and Poovendran, Radha and Jiang, Meng},
+  journal={arXiv preprint arXiv:2509.19212},
+  year={2025}
+}

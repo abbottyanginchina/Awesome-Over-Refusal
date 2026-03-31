@@ -1,0 +1,6 @@
+@article{zhang2026health,
+  title={Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context},
+  author={Zhang, Zhihao and Huang, Liting and Wu, Guanghao and Nakov, Preslav and Ji, Heng and Naseem, Usman},
+  journal={arXiv preprint arXiv:2601.17642},
+  year={2026}
+}

@@ -1,0 +1,14 @@
+@InProceedings{pmlr-v267-cui25a,
+  title = 	 {{OR}-Bench: An Over-Refusal Benchmark for Large Language Models},
+  author =       {Cui, Justin and Chiang, Wei-Lin and Stoica, Ion and Hsieh, Cho-Jui},
+  booktitle = 	 {Proceedings of the 42nd International Conference on Machine Learning},
+  pages = 	 {11515--11542},
+  year = 	 {2025},
+  editor = 	 {Singh, Aarti and Fazel, Maryam and Hsu, Daniel and Lacoste-Julien, Simon and Berkenkamp, Felix and Maharaj, Tegan and Wagstaff, Kiri and Zhu, Jerry},
+  volume = 	 {267},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--19 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v267/main/assets/cui25a/cui25a.pdf},
+  url = 	 {https://proceedings.mlr.press/v267/cui25a.html}
+}

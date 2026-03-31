@@ -1,0 +1,7 @@
+@misc{
+karaman2025porover,
+title={{PORO}ver: Improving Safety and Reducing Overrefusal in Large Language Models with Overgeneration and Preference Optimization},
+author={Batuhan K. Karaman and ishmam zabir and Alon Benhaim and Vishrav Chaudhary and Mert R. Sabuncu and Xia Song},
+year={2025},
+url={https://openreview.net/forum?id=5EuAMDMPRK}
+}

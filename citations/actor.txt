@@ -1,0 +1,15 @@
+@InProceedings{pmlr-v267-dabas25a,
+  title = 	 {Just Enough Shifts: Mitigating Over-Refusal in Aligned Language Models with Targeted Representation Fine-Tuning},
+  author =       {Dabas, Mahavir and Chen, Si and Fleming, Charles and Jin, Ming and Jia, Ruoxi},
+  booktitle = 	 {Proceedings of the 42nd International Conference on Machine Learning},
+  pages = 	 {11846--11861},
+  year = 	 {2025},
+  editor = 	 {Singh, Aarti and Fazel, Maryam and Hsu, Daniel and Lacoste-Julien, Simon and Berkenkamp, Felix and Maharaj, Tegan and Wagstaff, Kiri and Zhu, Jerry},
+  volume = 	 {267},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--19 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v267/main/assets/dabas25a/dabas25a.pdf},
+  url = 	 {https://proceedings.mlr.press/v267/dabas25a.html},
+  abstract = 	 {Safety alignment is crucial for Large Language Models (LLMs) to resist malicious instructions but often results in over-refusals, where benign prompts are unnecessarily rejected, impairing user experience and model utility. To this end, we introduce <b>ACTOR</b> (Activation-Based Training for Over-Refusal Reduction), a robust and compute- and-data efficient training framework that mini- mizes over-refusals by utilizing internal activation patterns from diverse queries. ACTOR precisely identifies and adjusts the activation components that trigger refusals, providing stronger control over the refusal mechanism. By fine-tuning only a single model layer, ACTOR effectively reduces over-refusals across multiple benchmarks while maintaining the model’s ability to handle harmful queries and preserving overall utility.}
+}

@@ -1,0 +1,6 @@
+@inproceedings{cheng2025overt,
+  title={OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models},
+  author={Cheng, Ziheng and Huang, Yixiao and Xu, Hui and Sojoudi, Somayeh and Zhao, Xuandong and Song, Dawn and Mei, Song},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2025}
+}

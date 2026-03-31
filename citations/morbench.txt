@@ -1,0 +1,7 @@
+@inproceedings{pan2025understanding,
+  title={Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary},
+  author={Pan, Licheng and Tong, Yongqi and Zhang, Xin and Zhang, Xiaolu and Zhou, Jun and Chu, Zhixuan},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={21068--21086},
+  year={2025}
+}

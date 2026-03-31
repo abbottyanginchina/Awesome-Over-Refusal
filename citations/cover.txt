@@ -1,0 +1,7 @@
+@inproceedings{sullutrone2025cover,
+  title={COVER: Context-Driven Over-Refusal Verification in LLMs},
+  author={Sullutrone, Giovanni and Vigliermo, Riccardo A and Bergamaschi, Sonia and Sala, Luca},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
+  pages={24214--24229},
+  year={2025}
+}

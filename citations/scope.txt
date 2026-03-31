@@ -1,0 +1,7 @@
+@misc{
+    zeng2025scope,
+    title={{SCOPE}: Scalable and Adaptive Evaluation of Misguided Safety Refusal in {LLM}s},
+    author={Yi Zeng and Adam Nguyen and Bo Li and Ruoxi Jia},
+    year={2025},
+    url={https://openreview.net/forum?id=72H3w4LHXM}
+}

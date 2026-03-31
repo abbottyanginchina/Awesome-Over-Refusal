@@ -1,0 +1,7 @@
+@inproceedings{shi2024navigating,
+  title={Navigating the overkill in large language models},
+  author={Shi, Chenyu and Wang, Xiao and Ge, Qiming and Gao, Songyang and Yang, Xianjun and Gui, Tao and Zhang, Qi and Huang, Xuan-Jing and Zhao, Xun and Lin, Dahua},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={4602--4614},
+  year={2024}
+}

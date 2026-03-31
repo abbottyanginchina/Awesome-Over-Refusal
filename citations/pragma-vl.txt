@@ -1,0 +1,6 @@
+@inproceedings{wen2026pragma,
+  title={Pragma-VL: Towards a Pragmatic Arbitration of Safety and Helpfulness in MLLMs},
+  author={Wen, Ming and Yang, Kun and Chen, Xin and Zhang, Jingyu and Han, Dingding and Xu, Yuedong and others},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026}
+}

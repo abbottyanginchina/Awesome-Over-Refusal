@@ -1,0 +1,9 @@
+@misc{jiang2026mitigatingoverrefusalalignedlarge,
+      title={Mitigating Over-Refusal in Aligned Large Language Models via Inference-Time Activation Energy}, 
+      author={Eric Hanchen Jiang and Weixuan Ou and Run Liu and Shengyuan Pang and Guancheng Wan and Ranjie Duan and Wei Dong and Kai-Wei Chang and XiaoFeng Wang and Ying Nian Wu and Xinfeng Li},
+      year={2026},
+      eprint={2510.08646},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.08646}, 
+}

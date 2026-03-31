@@ -1,0 +1,6 @@
+@article{maskey2025steering,
+  title={Steering Over-refusals Towards Safety in Retrieval Augmented Generation},
+  author={Maskey, Utsav and Dras, Mark and Naseem, Usman},
+  journal={arXiv preprint arXiv:2510.10452},
+  year={2025}
+}

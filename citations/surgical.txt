@@ -1,0 +1,8 @@
+@inproceedings{
+    wang2025surgical,
+    title={Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation},
+    author={Xinpeng Wang and Chengzhi Hu and Paul R{\"o}ttger and Barbara Plank},
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
+    url={https://openreview.net/forum?id=SCBn8MCLwc}
+}

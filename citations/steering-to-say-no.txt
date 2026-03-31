@@ -1,0 +1,6 @@
+@article{yang2026steering,
+  title={Steering to Say No: Configurable Refusal via Activation Steering in Vision Language Models},
+  author={Yang, Jiaxi and Liu, Shicheng and Yang, Yuchen and Lee, Dongwon},
+  journal={arXiv preprint arXiv:2602.07013},
+  year={2026}
+}

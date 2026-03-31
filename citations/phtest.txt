@@ -1,0 +1,6 @@
+@inproceedings{an2024automatic,
+  title={Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models},
+  author={An, Bang and Zhu, Sicheng and Zhang, Ruiyi and Panaitescu-Liess, Michael-Andrei and Xu, Yuancheng and Huang, Furong},
+  booktitle={Proceedings of the First Conference on Language Modeling (COLM)},
+  year={2024}
+}

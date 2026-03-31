@@ -1,0 +1,6 @@
+@article{ray2024mitigating,
+  title={Mitigating exaggerated safety in large language models},
+  author={Ray, Ruchira and Bhalani, Ruchi},
+  journal={arXiv preprint arXiv:2405.05418},
+  year={2024}
+}

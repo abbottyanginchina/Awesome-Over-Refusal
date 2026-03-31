@@ -1,0 +1,20 @@
+@inproceedings{rottger-etal-2024-xstest,
+    title = "{XST}est: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models",
+    author = {R{\"o}ttger, Paul  and
+      Kirk, Hannah  and
+      Vidgen, Bertie  and
+      Attanasio, Giuseppe  and
+      Bianchi, Federico  and
+      Hovy, Dirk},
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.301/",
+    doi = "10.18653/v1/2024.naacl-long.301",
+    pages = "5377--5400"
+}

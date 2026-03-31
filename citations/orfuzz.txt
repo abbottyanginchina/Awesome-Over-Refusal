@@ -1,0 +1,6 @@
+@article{zhang2025orfuzz,
+  title={ORFuzz: Fuzzing the" Other Side" of LLM Safety--Testing Over-Refusal},
+  author={Zhang, Haonan and Wang, Dongxia and Liu, Yi and Chen, Kexin and Wang, Jiashui and Ying, Xinlei and Liu, Long and Wang, Wenhai},
+  journal={arXiv preprint arXiv:2508.11222},
+  year={2025}
+}

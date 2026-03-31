@@ -1,0 +1,6 @@
+@article{ren2025dual,
+  title={DUAL-Bench: Measuring Over-Refusal and Robustness in Vision-Language Models},
+  author={Ren, Kaixuan and Nakov, Preslav and Naseem, Usman},
+  journal={arXiv preprint arXiv:2510.10846},
+  year={2025}
+}

@@ -1,0 +1,6 @@
+@article{yuan2025beyond,
+  title={Beyond over-refusal: Scenario-based diagnostics and post-hoc mitigation for exaggerated refusals in LLMs},
+  author={Yuan, Shuzhou and Nie, Ercong and Sun, Yinuo and Zhao, Chenxuan and LaCroix, William and F{\"a}rber, Michael},
+  journal={arXiv preprint arXiv:2510.08158},
+  year={2025}
+}

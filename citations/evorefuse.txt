@@ -1,0 +1,8 @@
+@inproceedings{
+wu2025evorefuse,
+title={{EVOREFUSE}: Evolutionary Prompt Optimization for Evaluation and Mitigation of {LLM} Over-Refusal to Pseudo-Malicious Instructions},
+author={Xiaorui Wu and Fei Li and Xiaofeng Mao and Xin Zhang and Li Zheng and Yuxiang Peng and Chong Teng and Donghong Ji and Zhuang Li},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=dbq6NZfi3c}
+}

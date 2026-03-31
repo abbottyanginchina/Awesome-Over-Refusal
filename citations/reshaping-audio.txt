@@ -1,0 +1,7 @@
+@inproceedings{yang2025reshaping,
+  title={Reshaping Representation Space to Balance the Safety and Over-rejection in Large Audio Language Models},
+  author={Yang, Hao and Qu, Lizhen and Shareghi, Ehsan and Haffari, Gholamreza},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={10078--10090},
+  year={2025}
+}

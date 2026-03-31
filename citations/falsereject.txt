@@ -1,0 +1,8 @@
+@inproceedings{
+zhang2025falsereject,
+title={FalseReject: A Resource for Improving Contextual Safety and Mitigating Over-Refusals in {LLM}s via Structured Reasoning},
+author={Zhehao Zhang and Weijie Xu and Fanyou Wu and Chandan K. Reddy},
+booktitle={Second Conference on Language Modeling},
+year={2025},
+url={https://openreview.net/forum?id=1w9Hay7tvm}
+}

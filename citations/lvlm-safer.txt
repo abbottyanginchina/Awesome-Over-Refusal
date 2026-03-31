@@ -1,0 +1,6 @@
+@misc{liu2024dont,
+  title={Don't Always Say No to Me: Benchmarking Safety-Related Refusal in Large {VLM}},
+  author={Liu, Xin and Dong, Zhichen and Zhou, Zhanhui and Zhu, Yichen and Lan, Yunshi and Shao, Jing and Yang, Chao and Qiao, Yu},
+  year={2024},
+  url={https://openreview.net/forum?id=OLEQJoAED6}
+}

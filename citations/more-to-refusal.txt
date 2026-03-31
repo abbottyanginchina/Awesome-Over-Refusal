@@ -1,0 +1,6 @@
+@article{joad2026there,
+  title={There Is More to Refusal in Large Language Models than a Single Direction},
+  author={Joad, Faaiz and Hawasly, Majd and Boughorbel, Sabri and Durrani, Nadir and Sencar, Husrev Taha},
+  journal={arXiv preprint arXiv:2602.02132},
+  year={2026}
+}

@@ -1,0 +1,9 @@
+@inproceedings{cao2025scans,
+  title={Scans: Mitigating the exaggerated safety for llms via safety-conscious activation steering},
+  author={Cao, Zouying and Yang, Yifei and Zhao, Hai},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={22},
+  pages={23523--23531},
+  year={2025}
+}
